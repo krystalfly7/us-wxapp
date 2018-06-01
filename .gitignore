@@ -1,0 +1,12 @@
+.idea/
+.DS_STORE
+dist/
+node_modules/
+npm-debug.log
+.vscode/
+mock/data/
+coverage/
+*.iml
+package-lock.json
+yarn.lock
+yarn-error.log
